@@ -28,12 +28,20 @@ The program starts with displaying the camera view including the calibration win
 In order to start the mouse mode with the use of gestures, it is necessary to capture in the calibration window all 21 read points of the hand, visualized in the window.
 Then the mouse cursor is moved to the center of the monitor and the next mode is activated.
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91888660/136264160-da4d97e8-2412-4c43-80fe-77d2c38fba06.png">
+</p>
+
 ## Mouse mode
 The mouse mode allows you to freely manipulate the cursor within the visibility of the camera. Due to the limited angle of view of the camera,
 the following were defined: small, medium and large error trials that deﬁnes the speed of cursor movement. Ie. the faster the user moves his hand,
 the greater the distance the cursor will move, allowing the screen edge to be grasped. The following are programmed at the user's disposal: left mouse button (LMB),
 right mouse button (RMB), moving the mouse wheel up, moving the mouse wheel down, double pressing the mouse button and the ability to launch the menu.
 The action of the mouse has been defined as the approach of two specific points of the hand to each other (the moment of touching the fingers or a gesture).
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91888660/136264165-6e503d06-9c8f-48d8-935c-87f166cb3007.png">
+</p>
 
 ## Sound mode
 The sound mode allows you to adjust the volume of the entire device. The user has 3 actions at his disposal: the left mouse button,
@@ -46,6 +54,10 @@ In the menu mode, there are 2 actions available to the user: left mouse button a
 - launching the built-in on-screen keyboard of Windows (**function testing stage**),
 - interventions and changes to selected program parameters and mouse actions
 - exiting the program.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91888660/136264167-b832d504-bbf7-4dd5-b498-0f74d5e01d22.png">
+</p>
 
 # Control:
 The controls are included in the additional file "Gesticulation_control.pdf"
