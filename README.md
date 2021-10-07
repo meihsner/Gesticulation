@@ -61,3 +61,8 @@ In the menu mode, there are 2 actions available to the user: left mouse button a
 
 # Control:
 The controls are included in the additional file "Gesticulation - control.pdf"
+
+# Do you want to check how the current state of the application works?
+- Download the zipped folder from the link: https://drive.google.com/drive/folders/1cF2S-Olz00viQD7ILmyrrXNojEKPrhjK?usp=sharing,
+- Run the file: `Gesticulation\dist\main.exe`,
+- Submit feedback on the activity.
