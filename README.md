@@ -14,7 +14,7 @@ Everything has been implemented in the *Python* environment and converted to the
 - *Pynput* - manipulation of sound (1.7.3),
 - *NumPy* - mathematical operations (1.21.2),
 - *MediaPipe* - hand detection and reading (0.8.7.3),
-- *PyInstaller* - conversion of the application to the runtime program (4.5.1).
+- *PyInstaller* - convert program to executive file (4.5.1).
 
 # Requirements:
 - webcam
