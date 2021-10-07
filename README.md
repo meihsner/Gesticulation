@@ -60,4 +60,4 @@ In the menu mode, there are 2 actions available to the user: left mouse button a
 </p>
 
 # Control:
-The controls are included in the additional file "Gesticulation_control.pdf"
+The controls are included in the additional file "Gesticulation - control.pdf"
